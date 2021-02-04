@@ -1,0 +1,9 @@
+apiDir: "../test-rest-builder-api/src/main/java"
+apiPackagePath: "test.rest.builder"
+application:
+    baseURI: "/test-rest-builder"
+    className: "TestRestBuilderApplication"
+    name: "TestRestBuilder"
+author: "lawrence"
+clientDir: "../test-rest-builder-client/src/main/java"
+testDir: "../test-rest-builder-test/src/testIntegration/java"

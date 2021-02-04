@@ -1,0 +1,3 @@
+Bundle-Name: test-rest-builder-impl
+Bundle-SymbolicName: test.rest.builder.impl
+Bundle-Version: 1.0.0

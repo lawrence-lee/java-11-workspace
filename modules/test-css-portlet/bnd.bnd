@@ -1,0 +1,4 @@
+Bundle-Name: test-css-portlet
+Bundle-SymbolicName: test.css.portlet
+Bundle-Version: 1.0.0
+Export-Package: test.css.portlet.constants

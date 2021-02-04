@@ -1,0 +1,10 @@
+Bundle-Name: test-sb-api
+Bundle-SymbolicName: test.sb.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	test.sb.exception,\
+	test.sb.model,\
+	test.sb.service,\
+	test.sb.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../test-sb-service/service.xml
